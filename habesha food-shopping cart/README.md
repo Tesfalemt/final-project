@@ -1,2 +1,5 @@
 # final-project
-This is going to be our final project for this course. We are going to work on online shopping card. 
+# group members
+1. Tesfalem Tekie
+2. Abiel Zeweday
+3. Samiel Beraki
